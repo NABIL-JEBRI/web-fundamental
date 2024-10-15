@@ -1,0 +1,9 @@
+-Le développement web repose sur l’utilisation des langages (HTML/CSS, JavaScript, PHP…) pour écrire des programmes qui sont ensuite 
+exécutés par les ordinateurs. Les instructions sont mises en place sur Internet et sont effectuées sur des serveurs.
+
+-Le HTML (HyperText Markup Language) est la fondation du développement web, jouant un rôle essentiel dans la structuration des sites web. 
+-CSS (Cascading Style Sheets ou en français "Feuilles de style en cascade") est utilisé pour styliser et mettre en page des pages Web 
+par exemple, pour modifier la police, la couleur, la taille et l'espacement de votre contenu, le scinder en plusieurs colonnes ou ajouter des animations et autres éléments décoratifs
+-JavaScript (« JS » en abrégé) est un langage de programmation dynamique complet qui, appliqué à un document HTML, peut fournir une interactivité dynamique sur les sites Web.
+-React est une bibliothèque open source JavaScript pour créer des interfaces utilisateurs. Elle est maintenue par Meta ainsi que par une communauté de développeurs individuels et d'entreprises depuis 2013
+Node.js est une plateforme logicielle libre en JavaScript, orientée vers les applications réseau évènementielles hautement concurrentes qui doivent pouvoir monter en charge. 
